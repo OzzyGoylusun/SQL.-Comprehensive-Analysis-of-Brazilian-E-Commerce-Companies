@@ -10,8 +10,14 @@
 ### Project Overview
 ---
 
-This data analysis project aims to provide insights into the sales performance of an e-commerce company over the past year. By analyzing various aspoects of the sales data,
-we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
+This data analysis project aims to provide insights into the sales performance of an e-commerce company over the years 2016, 2017 and 2018 based upon the following five perspectives:
+
+1. Order Analysis
+2. 
+
+
+By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the overall brazilian e-commerce atmosphere.
+
 
 AN IMAGE COULD ALSO GO HERE TO SHOW THE AUDIENCE HOW OUR ENDGAME PROJECT WORK VISUALLY LOOKS LIKE
 
