@@ -15,9 +15,6 @@ GROUP BY 1
 ORDER BY 1 ASC
 
 
-
-
-
 --Q1.2: Examine the number of orders in the "order_status" breakdown on a monthly basis. Visualise the output of the query with Excel.
 --Are there any months with a dramatic decrease or increase? Analyse and interpret the data.
 
@@ -29,9 +26,6 @@ FROM ORDERS
 WHERE PURCHASE_TIME IS NOT NULL
 GROUP BY 1, 2
 ORDER BY 1 ASC, 2 ASC
-
-
-
 
 
 --Q1.3: Examine the number of orders by product category. What are the prominent categories on special days?
@@ -72,8 +66,7 @@ WITH COMPLETE_CATEGORY_TRANSLATION AS
 
 	)
 
-
-
+	
 --1st Case: Total Number Of Orders Per Category
 
 SELECT TRANSLATED_CATEGORY_NAME, 
@@ -91,8 +84,7 @@ FROM ORDERS_AND_CATEGORIES
 GROUP BY 1
 ORDER BY 2 DESC
 
-
-
+	
 --2nd Case: Dia Dos Namorados: Lovers' Day in Brazil. Instead of on February 14th, it is celebrated on June 12nd.
 
 SELECT TRANSLATED_CATEGORY_NAME, 
@@ -141,7 +133,6 @@ FULL OUTER JOIN (
 ) AS ORDER_COUNT_PER_CATEGORY_AFTER_DIADOS USING(TRANSLATED_CATEGORY_NAME)
 
 ORDER BY 2 DESC, 3 DESC, 4 DESC
-
 
 
 --3rd Case: New Year's Celebrations
@@ -195,8 +186,6 @@ FULL OUTER JOIN (
 ORDER BY 2 DESC, 3 DESC, 4 DESC
 
 
-
-
 --Q1.4: Examine the number of orders on the basis of days of the week (Monday, Thursday, etc.) and days of the month (such as the 1st, 2nd of the month). 
 --Create and interpret a visual in Excel with the output of the query you wrote.
 
@@ -217,7 +206,6 @@ FROM ORDERS
 WHERE PURCHASE_TIME IS NOT NULL
 GROUP BY 1
 ORDER BY 2 DESC
-
 
 
 --Q1.4.2: Breakdown in terms of days of the month between 2016-2018:
@@ -245,7 +233,6 @@ FROM DISTINCT_ORDER_COUNT
 GROUP BY 1
 ORDER BY 2 DESC
 	
-
 
 --2nd Query: Total number of orders in the distribution of days of each month, taking the year as a criterion
 SELECT DISTINCT DAY_OF_EACH_MONTH_W_YEAR, 
