@@ -54,7 +54,7 @@ EDA involved exploring the commercial data to answer some key questions, includi
 
 ### Data Analysis
 
-As part of my Order Analysis series, I created a major customised table that brings together orders, which category they are part of and their purchase time by customers without duplicating the orders:
+As part of my Order Analysis series, I created a major customised table that brings together orders, which category they are part of and their purchase time by customers.
 
 ```sql
 ...
