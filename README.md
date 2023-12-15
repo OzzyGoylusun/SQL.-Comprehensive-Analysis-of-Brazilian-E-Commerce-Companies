@@ -102,11 +102,13 @@ FULL OUTER JOIN (
 
 ### Findings
 
-The analysis results are summarised as follows:
-1. The company's sales have been steadily increasing over the past year, with a noticeable peak during the holiday season.
-2. Product Category A is the best-performing category in terms of sales and revenue.
-3. Customer segments with high lifetime value (LTV) should be targeted for marketing efforts.
+The critical analysis results are summarised as follows:
 
+1. The small e-commerce businesses' sales have been steadily increasing over the past year, with **noticeable drops during the last days of each month.**
+2. Unlike other global department stores, only **37%** of all orders were placed on **weekends**, even including Friday.
+3. Top reviewed vendors have gained most appreciation owing to exceeding customer expectations about **order delivery speed.**
+4. **Credit card** by far is the most preferred method to pay by installments with most customers living in **Sao Paulo** choosing this method.
+   
 ### Recommendations
 
 This part actually empowers data analysts to provide value to the firms for which they are undertaking work.
