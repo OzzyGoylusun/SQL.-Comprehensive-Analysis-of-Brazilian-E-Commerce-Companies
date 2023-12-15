@@ -10,14 +10,14 @@
 ### Project Overview
 ---
 
-This data analysis project aims to provide insights into the sales performance of small Brazilian e-commerce companies who processes orders via the largest department store in Brazil, **Olist**, over the years 2016, 2017 and 2018 based upon the following four aspects:
+This data analysis project aims to provide insights into the sales performance of small Brazilian e-commerce companies who processed orders via the largest department store in Brazil, **Olist**, over the years 2016, 2017 and 2018 based upon the following four aspects:
 
 1. Order Analysis
 2. Customer Analysis
 3. Vendor Analysis
 4. Payment Analysis
 
-By analyzing these aspects of the sales data, it seeks to identify trends, helps make data-driven recommendations while gaining a deeper understanding of the overall brazilian e-commerce atmosphere.
+By analyzing these aspects of the orders data, the project seeks to identify trends, gaps and assists with making data-driven recommendations while gaining a deeper understanding of the overall brazilian e-commerce atmosphere that may have been glossed over.
 
 
 AN IMAGE COULD ALSO GO HERE TO SHOW THE AUDIENCE HOW OUR ENDGAME PROJECT WORK VISUALLY LOOKS LIKE
