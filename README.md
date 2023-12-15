@@ -1,7 +1,7 @@
 # SQL Comprehensive Analysis of Brazilian E-Commerce Companies
----
+
 ## Table of Contents
----
+
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Findings](#findings)
 - [Recommendations](#recommendations)
