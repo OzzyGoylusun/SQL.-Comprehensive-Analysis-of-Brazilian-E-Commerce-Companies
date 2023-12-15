@@ -20,7 +20,7 @@ This data analysis project aims to provide insights into the sales performance o
 By analyzing these aspects of the orders data, the project seeks to identify trends, gaps and assists with making data-driven recommendations while gaining a deeper understanding of the overall brazilian e-commerce atmosphere that may have been glossed over.
 
 
-AN IMAGE COULD ALSO GO HERE TO SHOW THE AUDIENCE HOW OUR ENDGAME PROJECT WORK VISUALLY LOOKS LIKE
+<<IMAGE>>
 
 ### Data Sources
 
