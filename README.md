@@ -107,7 +107,8 @@ The critical analysis results are summarised as follows:
 
 1. The e-commerce businesses' sales have been aggresively increasing in 2017 and 2018, however with **noticeable drops during the last days of each month**, sliding below the 8-period fibonacci moving average.
 
-<img width="1174" alt="Order Count for Aggregated Days of Each Year" src="https://github.com/OzzyGoylusun/SQL-Comprehensive-Analysis-of-Brazilian-E-Commerce-Companies/assets/152992554/b39296df-2862-4062-87a6-afbf1914e48a">
+<img width="1178" alt="Screen Shot 2023-12-15 at 12 53 59" src="https://github.com/OzzyGoylusun/SQL-Comprehensive-Analysis-of-Brazilian-E-Commerce-Companies/assets/152992554/874627fb-6fe6-45d4-9fc8-833a3cb0b705">
+
 
 
 
