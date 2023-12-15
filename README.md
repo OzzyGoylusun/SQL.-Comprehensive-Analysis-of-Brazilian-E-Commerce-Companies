@@ -33,16 +33,18 @@ Orders Data: Out of 8 datasets in total, the primary dataset used for this analy
 - Excel - Data Visualisation 
   - [Download here](https://microsoft.com)
 
-### Database and Data Preparation
+### Data Preparation:
 
-In the initial data preparation phase, I performed the following tasks:
+In the initial data preparation works, I performed the following tasks:
 
-1. Data loading and inspection.
-2. 
+1. Database Creation
+2. Tables Creation, including assignment of Primary and Foreign Keys
+3. Preparation of an Entity-Relationship Diagram
+4. Data loading and inspection.
 
 ### Exploratory Data Analysis (EDA)
 
-EDA involved exploring the sales data to answer key questions, such as:
+EDA involved exploring the commercial data to answer key questions, such as:
 
 - What is the overall sales trend?
 - Which products are top sellers?
