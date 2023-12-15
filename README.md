@@ -2,7 +2,7 @@
 
 ## Table of Contents (EXAMPLE)
 
-- [Project Overview](#project-overview)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Sources](#data-sources)
 - [Recommendations](#recommendations)
 
@@ -42,7 +42,7 @@ In the initial data preparation works, I performed the following tasks:
 3. Preparation of an entity-relationship diagram (ERD)
 4. Data import and inspection
 
-### Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis
 
 EDA involved exploring the commercial data to answer some key questions, including but not limited
 
