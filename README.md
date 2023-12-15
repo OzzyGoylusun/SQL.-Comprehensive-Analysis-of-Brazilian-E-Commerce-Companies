@@ -37,10 +37,10 @@ Orders Data: Out of 8 datasets in total, the primary dataset used for this analy
 
 In the initial data preparation works, I performed the following tasks:
 
-1. Database Creation
-2. Tables Creation, including assignment of Primary and Foreign Keys
-3. Preparation of an Entity-Relationship Diagram
-4. Data loading and inspection
+1. Database creation
+2. Tables creation, including assignment of primary and foreign keys
+3. Preparation of an entity-relationship diagram (ERD)
+4. Data import and inspection
 
 ### Exploratory Data Analysis (EDA)
 
