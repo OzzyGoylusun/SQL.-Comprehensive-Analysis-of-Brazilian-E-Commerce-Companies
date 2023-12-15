@@ -113,7 +113,7 @@ The critical analysis results are summarised as follows:
 
 2. Unlike other global department stores, only **37%** of all orders were placed on **weekends**, even counting Friday as a weekend day.
 3. Top reviewed vendors have gained most appreciation via reviews, owing to exceeding customer expectations about **order delivery speeds.**
-4. **Credit card** by far is the most preferred method to pay by installments with most customers living in **Sao Paulo** choosing this method.
+4. **Credit card** by far is the most preferred method to pay for orders by installments with most customers living in **Sao Paulo** choosing this method.
    
 ### Recommendations
 
