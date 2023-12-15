@@ -117,10 +117,11 @@ The critical analysis results are summarised as follows:
 
 Based on the analysis, we recommend the following actions:
 
-- Invest in marketing and promotions during peak sales seasons to maximize revenue.
-- Focus on expanding and promoting products in Category A.
-- Implement a customer segmentation strategy to target high-LTV customers effectively.
-- X
+- Invest further in marketing and promotions to slow down and 
+- Adopt a data-driven customer segmentation strategy also to target sensitive customers who can only rely on their paychecks to go online shopping.
+- Communicate with vendors the need to continue to improve order delivery speed to enhance customer satisfaction levels.
+- Promote 
+  
 
 ### Limitations:
 
