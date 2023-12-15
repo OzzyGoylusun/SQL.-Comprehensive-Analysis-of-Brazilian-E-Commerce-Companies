@@ -27,7 +27,7 @@ For instance, the above graph shows the overall uptrend trend in sales in the e-
 
 ### Data Sources
 
-Orders Data: Out of 8 datasets in total, the primary dataset used for this analysis is the "olist_orders_dataset.csv" file, containing detailed information about orders processed by a number of Brazilian e-commerce companies.
+Orders Data: Out of 8 datasets in total, the primary dataset used for this analysis is the "olist_orders_dataset.csv" file, containing detailed information about orders processed by a number of companies.
 
 ### Tools
 
