@@ -24,7 +24,7 @@ AN IMAGE COULD ALSO GO HERE TO SHOW THE AUDIENCE HOW OUR ENDGAME PROJECT WORK VI
 
 ### Data Sources
 
-Sales Data: The primary dataset used for this analysis is the "sales_data.csv" file, containing detailed information about each sale made by the company.
+Orders Data: Out of 8 datasets in total, the primary dataset used for this analysis is the "olist_orders_dataset.csv" file, containing detailed information about orders processed by a number of Brazilian e-commerce companies.
 
 ### Tools
 
