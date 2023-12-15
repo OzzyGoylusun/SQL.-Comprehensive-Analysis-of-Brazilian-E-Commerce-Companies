@@ -10,7 +10,9 @@
 ### Project Overview
 ---
 
-This SQL data analysis project aims to provide insights into the sales performance of small Brazilian e-commerce companies who processed orders via the largest department store in Brazil, **Olist**, over the years 2016, 2017 and 2018 based upon the following four aspects:
+This SQL data analysis project aims to provide insights into the sales performance of small Brazilian e-commerce companies who processed orders via the largest department store in Brazil, **Olist**, over the years 2016, 2017 and 2018.
+
+The following four aspects were taken into account while extracting the insights:
 
 1. Order Analysis (OA)
 2. Customer Analysis (CA)
