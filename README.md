@@ -98,7 +98,7 @@ FULL OUTER JOIN (
 ) AS ORDER_COUNT_PER_CATEGORY_ON_DIADOS USING(TRANSLATED_CATEGORY_NAME)
 ```
 
-### Results/Findings
+### Findings
 
 The analysis results are summarised as follows:
 1. The company's sales have been steadily increasing over the past year, with a noticeable peak during the holiday season.
