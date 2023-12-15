@@ -70,6 +70,7 @@ WITH ORDERS_AND_CATEGORIES AS(
   WHERE CATEGORY_NAME IS NOT NULL
 
 )
+...
 ```
 
 Afterwards, what stroke me most by far was to face the need to subfilter this customised table in several ways and join them together 
