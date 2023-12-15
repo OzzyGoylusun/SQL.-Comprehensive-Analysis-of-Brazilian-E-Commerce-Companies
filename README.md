@@ -54,7 +54,7 @@ EDA involved exploring the commercial data to answer some key questions, includi
 
 ### Data Analysis
 
-Include some interesting code/features worked with
+While coding in SQL, what stroke me most by far was to face the need to subfilter my customised WITH/AS type
 
 ```sql
 SELECT * FROM table1
