@@ -33,7 +33,7 @@ Orders Data: Out of 8 datasets in total, the primary dataset used for this analy
 - Excel - Data Visualisation 
   - [Download here](https://microsoft.com)
 
-### Data Preparation:
+### Data Preparation
 
 In the initial data preparation works, I performed the following tasks:
 
