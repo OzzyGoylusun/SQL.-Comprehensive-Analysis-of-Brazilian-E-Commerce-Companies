@@ -117,7 +117,7 @@ The critical analysis results are summarised as follows:
    
 ### Recommendations
 
-Based on the analysis, we recommend the following actions:
+Based on the analysis, I recommend the following actions:
 
 - Invest further in brand building, marketing and promotions to, for instance, reverse back the declining trend in order count starting from November 2017.
 
