@@ -104,7 +104,12 @@ FULL OUTER JOIN (
 
 The critical analysis results are summarised as follows:
 
-1. The small e-commerce businesses' sales have been steadily increasing in 2017 and 2018, however with **noticeable drops during the last days of each month.**
+1. The small e-commerce businesses' sales have been steadily increasing in 2017 and 2018, however with **noticeable drops during the last days of each month**, sliding below the 8-period fibonacci moving average.
+
+<img width="1187" alt="Aggregated Order Count for Days of Each Year" src="https://github.com/OzzyGoylusun/SQL-Comprehensive-Analysis-of-Brazilian-E-Commerce-Companies/assets/152992554/bdc794a7-7368-42ba-b533-8e71ce2df7f5">
+
+
+
 2. Unlike other global department stores, only **37%** of all orders were placed on **weekends**, even including Friday as a weekend day
 3. Top reviewed vendors have gained most appreciation owing to exceeding customer expectations about **order delivery speed.**
 4. **Credit card** by far is the most preferred method to pay by installments with most customers living in **Sao Paulo** choosing this method.
