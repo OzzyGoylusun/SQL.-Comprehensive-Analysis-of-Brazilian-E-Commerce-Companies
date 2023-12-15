@@ -28,18 +28,17 @@ Orders Data: Out of 8 datasets in total, the primary dataset used for this analy
 
 ### Tools
 
-- Excel - Data Cleaning 
+- PostgreSQL Server - Data Manipulation and Analysis
+  - [Download here](https://www.postgresql.org/download/)
+- Excel - Data Visualisation 
   - [Download here](https://microsoft.com)
-- SQL Server - Data Analysis
-- Power BI - Creating Reports
 
-### Data Cleaning/Preparation
+### Database and Data Preparation
 
-In the initial data preparation phase, we performed the following tasks:
+In the initial data preparation phase, I performed the following tasks:
 
 1. Data loading and inspection.
-2. Handling missing values.
-3. Data cleaning and formatting.
+2. 
 
 ### Exploratory Data Analysis (EDA)
 
