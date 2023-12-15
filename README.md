@@ -44,12 +44,12 @@ In the initial data preparation works, I performed the following tasks:
 
 ### Exploratory Data Analysis (EDA)
 
-EDA involved exploring the commercial data to answer key questions, such as:
+EDA involved exploring the commercial data to answer some key questions, including but not limited
 
 - What is the overall sales trend?
-- Wh
+- What is the favorite city of each customer when it comes to placing orders from?
 - Who are the top 5 sellers who deliver orders to customers the fastest? 
-- What are the peak sales periods?
+- Which product categories experienced installment payments the most?
 
 <img width="892" alt="Example Pic" src="https://github.com/OzzyGoylusun/SQL-Case-Study-Analysing-Unicorn-Companies/assets/152992554/7fef48e9-12aa-425e-8394-72a1de395ef2">
 
