@@ -104,7 +104,7 @@ FULL OUTER JOIN (
 
 The critical analysis results are summarised as follows:
 
-1. The small e-commerce businesses' sales have been aggresively increasing in 2017 and 2018, however with **noticeable drops during the last days of each month**, sliding below the 8-period fibonacci moving average.
+1. The e-commerce businesses' sales have been aggresively increasing in 2017 and 2018, however with **noticeable drops during the last days of each month**, sliding below the 8-period fibonacci moving average.
 
 <img width="1187" alt="Aggregated Order Count for Days of Each Year" src="https://github.com/OzzyGoylusun/SQL-Comprehensive-Analysis-of-Brazilian-E-Commerce-Companies/assets/152992554/bdc794a7-7368-42ba-b533-8e71ce2df7f5">
 
