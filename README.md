@@ -126,5 +126,5 @@ few outliers even after the omissions but even then we can still see that there 
 
 ### References:
 
-1. [Kaggle Dataset:](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+1. [Kaggle Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 2. [PostgreSQL: TimeSeries](https://www.postgresql.org/docs/current/functions-datetime.html#FUNCTIONS-DATETIME-TABLE)
