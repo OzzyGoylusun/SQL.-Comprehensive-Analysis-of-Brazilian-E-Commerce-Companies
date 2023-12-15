@@ -58,7 +58,7 @@ As part of my Order Analysis series, I created a major customised table that bri
 
 ```sql
 ...
-ORDERS_AND_CATEGORIES AS(
+WITH ORDERS_AND_CATEGORIES AS(
 		
   SELECT DISTINCT ORDER_ID,
               TRANSLATED_CATEGORY_NAME,
