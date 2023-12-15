@@ -47,6 +47,7 @@ In the initial data preparation works, I performed the following tasks:
 EDA involved exploring the commercial data to answer some key questions, including but not limited
 
 - What is the overall sales trend?
+- What are the most preferred product categories leading up to/on/after special days?
 - What is the favorite city of each customer when it comes to placing orders from?
 - Who are the top 5 sellers who deliver orders to customers the fastest? 
 - Which product categories experienced installment payments the most?
