@@ -52,9 +52,6 @@ EDA involved exploring the commercial data to answer some key questions, includi
 - Who are the top 5 sellers who deliver orders to customers the fastest? 
 - Which product categories experienced installment payments the most?
 
-<img width="892" alt="Example Pic" src="https://github.com/OzzyGoylusun/SQL-Case-Study-Analysing-Unicorn-Companies/assets/152992554/7fef48e9-12aa-425e-8394-72a1de395ef2">
-
-
 ### Data Analysis
 
 Include some interesting code/features worked with
