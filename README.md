@@ -54,11 +54,28 @@ EDA involved exploring the commercial data to answer some key questions, includi
 
 ### Data Analysis
 
-While coding in SQL, what stroke me most by far was to face the need to subfilter my customised WITH/AS type
+As part of my Order Analysis series, I created a major customised table that brings together orders, which category they are part of and their purchase time by customers without duplicating the orders:
 
 ```sql
-SELECT * FROM table1
-WHERE cond = 2
+...
+ORDERS_AND_CATEGORIES AS(
+		
+  SELECT DISTINCT ORDER_ID,
+              TRANSLATED_CATEGORY_NAME,
+              PURCHASE_TIME
+		
+  FROM ORDERS AS O
+  INNER JOIN ORDER_ITEMS AS OI USING (ORDER_ID)
+  INNER JOIN COMPLETE_CATEGORY_TRANSLATION USING (PRODUCT_ID)
+  WHERE CATEGORY_NAME IS NOT NULL
+
+)
+```
+
+Afterwards, what stroke me most by far was to face the need to subfilter this customised table in order to find out the most preferred product categories on specific days:
+
+```sql
+
 ```
 
 ### Results/Findings
