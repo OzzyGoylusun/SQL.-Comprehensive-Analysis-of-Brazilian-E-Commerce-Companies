@@ -21,7 +21,7 @@ By analyzing these aspects of the orders data, the project seeks to identify tre
 
 <img width="718" alt="Overall Sales Trend" src="https://github.com/OzzyGoylusun/SQL-Comprehensive-Analysis-of-Brazilian-E-Commerce-Companies/assets/152992554/10a291ec-f800-46b2-b9d5-7c936f411b8f">
 
-For instance, above shows the overall sales trend in the e-commerce sector:
+For instance, above shows the overall sales trend in the e-commerce sector.
 
 ### Data Sources
 
