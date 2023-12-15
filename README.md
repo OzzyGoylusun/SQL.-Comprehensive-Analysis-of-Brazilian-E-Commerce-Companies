@@ -10,13 +10,14 @@
 ### Project Overview
 ---
 
-This data analysis project aims to provide insights into the sales performance of an e-commerce company over the years 2016, 2017 and 2018 based upon the following five perspectives:
+This data analysis project aims to provide insights into the sales performance of an e-commerce company over the years 2016, 2017 and 2018 based upon the following four aspects:
 
 1. Order Analysis
-2. 
+2. Customer Analysis
+3. Vendor Analysis
+4. Payment Analysis
 
-
-By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the overall brazilian e-commerce atmosphere.
+By analyzing these aspects of the sales data, it seeks to identify trends, helps make data-driven recommendations while gaining a deeper understanding of the overall brazilian e-commerce atmosphere.
 
 
 AN IMAGE COULD ALSO GO HERE TO SHOW THE AUDIENCE HOW OUR ENDGAME PROJECT WORK VISUALLY LOOKS LIKE
@@ -82,7 +83,7 @@ Based on the analysis, we recommend the following actions:
 I had to remove all zero values from budget and revenue columns because they would have affected the accuracy of my conclusions from the analysis. There are still a
 few outliers even after the omissions but even then we can still see that there is a positive correlatation between both budget and number of votes with revenue.
 
-### References: Let's say you checked something online, Googled, or simply source of your data and case study content etc.
+### References:
 
-1. SQL for Businesses by Werty. (Book Name)
+1. [Kaggle Dataset:](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 2. [PostgreSQL: TimeSeries](https://www.postgresql.org/docs/current/functions-datetime.html#FUNCTIONS-DATETIME-TABLE)
