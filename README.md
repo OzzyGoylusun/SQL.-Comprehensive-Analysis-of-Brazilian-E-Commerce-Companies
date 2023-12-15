@@ -117,9 +117,12 @@ The critical analysis results are summarised as follows:
 
 Based on the analysis, we recommend the following actions:
 
-- Invest further in marketing and promotions to slow down and 
-- Adopt a data-driven customer segmentation strategy also to target sensitive customers who can only rely on their paychecks to go online shopping.
-- Communicate with vendors the need to continue to improve order delivery speed to enhance customer satisfaction levels.
+- Invest further in brand building, marketing and promotions to, for instance, reverse back the declining trend in order count starting from November 2017.
+
+<img width="840" alt="Declining Trend in Order Count" src="https://github.com/OzzyGoylusun/SQL-Comprehensive-Analysis-of-Brazilian-E-Commerce-Companies/assets/152992554/297fa15f-4022-4a32-babf-12ffa51b67b2">
+
+- Adopt a data-driven STP strategy to especially target sensitive customers who can only rely on their monthly paychecks to go online shopping.
+- Communicate with all vendors the need to continue to accelerate order delivery speed in order to enhance overall customer satisfaction levels.
 - Promote 
   
 
