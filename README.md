@@ -1,4 +1,4 @@
-# SQL Comprehensive Analysis of Brazilian E-Commerce 
+# SQL Comprehensive Analysis of Brazilian E-Commerce Companies
 
 ## Table of Contents (EXAMPLE)
 
