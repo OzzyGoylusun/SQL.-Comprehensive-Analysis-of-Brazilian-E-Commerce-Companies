@@ -125,10 +125,9 @@ Based on the analysis, we recommend the following actions:
 - Focus on expanding and promoting products in Category A.
 - Implement a customer segmentation strategy to target high-LTV customers effectively.
 
-### Limitations: Records that you have been compelled to take out of your analysis (e.g., outliers, NaNs etc.). This can help you work as your Disclaimer.
+### Limitations:
 
-I had to remove all zero values from budget and revenue columns because they would have affected the accuracy of my conclusions from the analysis. There are still a
-few outliers even after the omissions but even then we can still see that there is a positive correlatation between both budget and number of votes with revenue.
+The Geolocation dataset was excluded from the comprehensive data analysis.
 
 ### References:
 
