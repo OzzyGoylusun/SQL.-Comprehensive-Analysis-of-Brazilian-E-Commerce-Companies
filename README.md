@@ -12,10 +12,10 @@
 
 This data analysis project aims to provide insights into the sales performance of small Brazilian e-commerce companies who processed orders via the largest department store in Brazil, **Olist**, over the years 2016, 2017 and 2018 based upon the following four aspects:
 
-1. Order Analysis
-2. Customer Analysis
-3. Vendor Analysis
-4. Payment Analysis
+1. Order Analysis (OA)
+2. Customer Analysis (CA)
+3. Vendor Analysis (VA)
+4. Payment Analysis (PA)
 
 By analyzing these aspects of the orders data, the project seeks to identify trends, gaps and assists with making data-driven recommendations while gaining a deeper understanding of the overall brazilian e-commerce atmosphere that may have been glossed over.
 
@@ -40,14 +40,15 @@ In the initial data preparation works, I performed the following tasks:
 1. Database Creation
 2. Tables Creation, including assignment of Primary and Foreign Keys
 3. Preparation of an Entity-Relationship Diagram
-4. Data loading and inspection.
+4. Data loading and inspection
 
 ### Exploratory Data Analysis (EDA)
 
 EDA involved exploring the commercial data to answer key questions, such as:
 
 - What is the overall sales trend?
-- Which products are top sellers?
+- Wh
+- Who are the top 5 sellers who deliver orders to customers the fastest? 
 - What are the peak sales periods?
 
 <img width="892" alt="Example Pic" src="https://github.com/OzzyGoylusun/SQL-Case-Study-Analysing-Unicorn-Companies/assets/152992554/7fef48e9-12aa-425e-8394-72a1de395ef2">
