@@ -105,7 +105,7 @@ FULL OUTER JOIN (
 The critical analysis results are summarised as follows:
 
 1. The small e-commerce businesses' sales have been steadily increasing in 2017 and 2018, however with **noticeable drops during the last days of each month.**
-2. Unlike other global department stores, only **37%** of all orders were placed on **weekends**, even including Friday.
+2. Unlike other global department stores, only **37%** of all orders were placed on **weekends**, even including Friday as a weekend day
 3. Top reviewed vendors have gained most appreciation owing to exceeding customer expectations about **order delivery speed.**
 4. **Credit card** by far is the most preferred method to pay by installments with most customers living in **Sao Paulo** choosing this method.
    
