@@ -38,11 +38,11 @@ Orders Data: Out of 8 datasets in total, the primary dataset used for this analy
 
 ### Data Preparation
 
-In the initial data preparation works, I performed the following tasks:
+In the initial data preparation phase, I performed the following tasks:
 
 1. Database creation from scratch
 2. Tables creation, including assignment of primary and foreign keys
-3. Preparation of an entity-relationship diagram (ERD)
+3. Plotting of an entity-relationship diagram (ERD)
 4. Data import and inspection
 
 ### Exploratory Data Analysis
