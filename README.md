@@ -125,12 +125,11 @@ Based on the analysis, we recommend the following actions:
 - Communicate with all vendors the need to continue to accelerate order delivery speed in order to enhance overall customer satisfaction levels.
 - Promote 
   
-
-### Limitations:
+### Limitations
 
 The Geolocation dataset was excluded from the comprehensive data analysis.
 
-### References:
+### References
 
 1. [Kaggle Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 2. [PostgreSQL: TimeSeries](https://www.postgresql.org/docs/current/functions-datetime.html#FUNCTIONS-DATETIME-TABLE)
