@@ -119,7 +119,7 @@ The critical analysis results are summarised as follows:
 
 Based on the analysis, I recommend the following actions:
 
-- Invest further in brand building, marketing and promotions to, for instance, reverse back the declining trend in order count starting from November 2017 onwards
+- Invest further in brand building, marketing and promotions to, for instance, reverse back the declining trend in order count starting from November 2017 onwards.
 
 <img width="840" alt="Declining Trend in Order Count" src="https://github.com/OzzyGoylusun/SQL-Comprehensive-Analysis-of-Brazilian-E-Commerce-Companies/assets/152992554/82dfbff7-470c-4b42-bfee-c40e283a7a8d">
 
