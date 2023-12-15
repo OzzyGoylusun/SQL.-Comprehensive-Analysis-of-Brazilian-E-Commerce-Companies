@@ -17,7 +17,7 @@ This data analysis project aims to provide insights into the sales performance o
 3. Vendor Analysis (VA)
 4. Payment Analysis (PA)
 
-By analyzing these aspects of the orders data, the project seeks to identify trends, gaps and assists with making data-driven recommendations while gaining a deeper understanding of the overall brazilian e-commerce atmosphere that may have been glossed over.
+By analyzing these aspects of the orders data, the project seeks to identify trends, gaps and assists these firms with making data-driven recommendations while gaining a deeper understanding of the overall brazilian e-commerce atmosphere that may have been glossed over.
 
 <img width="718" alt="Overall Sales Trend" src="https://github.com/OzzyGoylusun/SQL-Comprehensive-Analysis-of-Brazilian-E-Commerce-Companies/assets/152992554/10a291ec-f800-46b2-b9d5-7c936f411b8f">
 
