@@ -3,7 +3,7 @@
 ## Table of Contents (EXAMPLE)
 
 - [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Data Sources](#data-sources)
+- [Findings](#findings)
 - [Recommendations](#recommendations)
 
 
@@ -72,10 +72,30 @@ ORDERS_AND_CATEGORIES AS(
 )
 ```
 
-Afterwards, what stroke me most by far was to face the need to subfilter this customised table in order to find out the most preferred product categories on specific days:
+Afterwards, what stroke me most by far was to face the need to subfilter this customised table in several ways and join them together 
+in order to find out the most preferred product categories leading up to and on specific days:
 
 ```sql
+SELECT ...
+FROM (
 
+	SELECT TRANSLATED_CATEGORY_NAME,  
+		COUNT(ORDER_ID) AS ORDER_COUNT_PER_CATEGORY_ONE_WEEK_BEFORE_DIADOS
+	
+	FROM ORDERS_AND_CATEGORIES
+	WHERE TO_CHAR((PURCHASE_TIME + interval '1 week'), 'DD-MM') = '12-06'   
+	GROUP BY 1
+
+) AS ORDER_COUNT_PER_CATEGORY_BEFORE_DIADOS 
+
+FULL OUTER JOIN (
+
+	...
+	FROM ORDERS_AND_CATEGORIES
+	WHERE TO_CHAR(PURCHASE_TIME,'DD-MM') = '12-06'
+	...
+
+) AS ORDER_COUNT_PER_CATEGORY_ON_DIADOS USING(TRANSLATED_CATEGORY_NAME)
 ```
 
 ### Results/Findings
