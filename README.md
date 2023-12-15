@@ -125,7 +125,7 @@ Based on the analysis, I recommend the following actions:
 
 
 - Adopt a data-driven STP strategy to especially target sensitive customers who can only rely on their monthly paychecks to go online shopping.
-- Communicate with all vendors the need to continue to accelerate the order delivery speed in order to enhance overall customer satisfaction levels.
+- Communicate with all vendors the need to continue to accelerate the order delivery speed in order to enhance overall customer satisfaction level.
 - Promote offers which can be paid by multiple installments at the beginning of each month to boost sales.
   
 ### Limitations
