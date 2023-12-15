@@ -77,7 +77,7 @@ WITH ORDERS_AND_CATEGORIES AS(
 ```
 
 Afterwards, what stroke me most by far was to face the need to subfilter this customised table in several ways and join them together 
-in order to find out *the most preferred product categories* **leading up to and on specific days:**
+in order to find out *the most preferred product categories* **leading up to** and **on specific days:**
 
 ```sql
 SELECT ...
