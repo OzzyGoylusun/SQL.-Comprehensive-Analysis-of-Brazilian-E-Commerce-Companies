@@ -15,6 +15,12 @@
 
 This SQL data analysis project aims to provide insights into the sales performance of small Brazilian e-commerce companies who processed orders via the largest department store in Brazil, **Olist**, over the years 2016, 2017 and 2018.
 
+<p align="center">
+  <img src="https://github.com/OzzyGoylusun/SQL.-Comprehensive-Analysis-of-Brazilian-E-Commerce-Companies/blob/main/Olist%20Image.png"
+ alt="Olist">
+</p>
+
+
 The following four aspects were taken into account while extracting the insights:
 
 1. Order Analysis (OA)
