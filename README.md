@@ -1,4 +1,4 @@
-# SQL- Comprehensive Analysis of Brazilian E-Commerce Companies
+# Comprehensive Analysis of Brazilian E-Commerce Companies
 
 ## Medium Article Published
 - [Power of Sub-Querying Customised Tables](https://medium.com/@goylusun/sql-exploration-series-2-data-manipulation-by-sub-querying-custom-tables-3f703b327ac5)
