@@ -17,7 +17,7 @@ This SQL data analysis project aims to provide insights into the sales performan
 
 <p align="center">
   <img src="https://github.com/OzzyGoylusun/SQL.-Comprehensive-Analysis-of-Brazilian-E-Commerce-Companies/blob/main/Miscellaneous%20Images/Olist%20Image.png"
- alt="Olist" width=750>
+ alt="Olist" width=700>
 </p>
 
 
