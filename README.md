@@ -123,7 +123,7 @@ The critical analysis results are summarised as follows:
 
 <p align="center">
   <img src="https://github.com/OzzyGoylusun/SQL.-Comprehensive-Analysis-of-Brazilian-E-Commerce-Companies/blob/main/Visuals/Days%20of%20the%20Months%20Trend.png"
- alt="Days of the Months Trend for Order Couunt" width="750">
+ alt="Days of the Months Trend for Order Count" width="850">
 </p>
 
 2. Unlike other global department stores, only **37%** of all orders were placed on **weekends**, even counting Friday as a weekend day.
