@@ -30,7 +30,10 @@ The following four aspects were taken into account while extracting the insights
 
 By analyzing the data from these lenses, the project is intended to identify trends, gaps and assists these firms with making data-driven recommendations while gaining a deeper understanding of the overall Brazilian e-commerce atmosphere.
 
-<img width="718" alt="Overall Sales Trend" src="https://github.com/OzzyGoylusun/SQL-Comprehensive-Analysis-of-Brazilian-E-Commerce-Companies/assets/152992554/10a291ec-f800-46b2-b9d5-7c936f411b8f">
+<p align="center">
+  <img src="https://github.com/OzzyGoylusun/SQL.-Comprehensive-Analysis-of-Brazilian-E-Commerce-Companies/blob/main/Visuals/Overall%20Sales%20Trend.png"
+ alt="Overall Sales Trend" width=750>
+</p>
 
 For instance, via **the total order count**, the above graph shows the overall uptrend trend in sales in the e-commerce sector.
 
