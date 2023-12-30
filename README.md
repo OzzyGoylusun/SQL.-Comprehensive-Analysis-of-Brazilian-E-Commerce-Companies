@@ -35,7 +35,7 @@ By analyzing the data from these lenses, the project is intended to identify tre
  alt="Overall Sales Trend" width="750">
 </p>
 
-For instance, via **the total order count**, the above graph shows the overall uptrend trend in sales in the e-commerce sector.
+For instance, the above graph shows the overall uptrend trend in sales in the e-commerce sector.
 
 ### Data Sources
 
