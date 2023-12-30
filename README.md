@@ -138,7 +138,7 @@ Based on the analysis, I recommend the following actions:
 
 <p align="center">
   <img src="https://github.com/OzzyGoylusun/SQL.-Comprehensive-Analysis-of-Brazilian-E-Commerce-Companies/blob/main/Visuals/Declining%20Trend%20in%20Order%20Count.png"
- alt="Declining Trend in Order Count" width="750">
+ alt="Declining Trend in Order Count" width="650">
 </p>
 
 - Adopt a data-driven STP strategy to especially target sensitive customers who can only rely on their monthly paychecks to go online shopping.
