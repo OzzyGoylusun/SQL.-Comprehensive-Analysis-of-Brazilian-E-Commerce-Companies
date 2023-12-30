@@ -119,9 +119,12 @@ FULL OUTER JOIN (
 
 The critical analysis results are summarised as follows:
 
-1. The e-commerce businesses' sales have been aggresively increasing in 2017 and 2018, however with **noticeable drops during the last days of each month**, sliding below the 8-period fibonacci moving average.
+1. The e-commerce businesses' sales have been aggresively increasing in 2017 and 2018, however with **noticeable drops during the last days of each month**, sliding below the 8-period fibonacci moving average, as shown below:
 
-<img width="1178" alt="Screen Shot 2023-12-15 at 12 53 59" src="https://github.com/OzzyGoylusun/SQL-Comprehensive-Analysis-of-Brazilian-E-Commerce-Companies/assets/152992554/874627fb-6fe6-45d4-9fc8-833a3cb0b705">
+<p align="center">
+  <img src="https://github.com/OzzyGoylusun/SQL.-Comprehensive-Analysis-of-Brazilian-E-Commerce-Companies/blob/main/Visuals/Days%20of%20the%20Months%20Trend.png"
+ alt="Days of the Months Trend for Order Couunt" width="750">
+</p>
 
 2. Unlike other global department stores, only **37%** of all orders were placed on **weekends**, even counting Friday as a weekend day.
 3. Top reviewed vendors have gained most appreciation via reviews, owing to exceeding customer expectations about **order delivery speeds.**
