@@ -32,7 +32,7 @@ By analyzing the data from these lenses, the project is intended to identify tre
 
 <p align="center">
   <img src="https://github.com/OzzyGoylusun/SQL.-Comprehensive-Analysis-of-Brazilian-E-Commerce-Companies/blob/main/Visuals/Overall%20Sales%20Trend.png"
- alt="Overall Sales Trend" width=750>
+ alt="Overall Sales Trend" width=700>
 </p>
 
 For instance, via **the total order count**, the above graph shows the overall uptrend trend in sales in the e-commerce sector.
