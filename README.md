@@ -37,6 +37,8 @@ By analyzing the data from these lenses, the project is intended to identify tre
 
 For instance, the above graph shows the overall uptrend trend in sales in the e-commerce sector.
 
+---
+
 ### Data Sources
 
 Orders Data: Out of 8 datasets in total, the primary dataset used for this analysis is the "olist_orders_dataset.csv" file, containing detailed information about orders processed by a number of companies.
